@@ -41,7 +41,7 @@ The API works with [Adia_TTS](https://huggingface.co/CONCREE/Adia_TTS) model and
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sudoping01/adia-tts-inference-server/
+   git clone https://github.com/sudoping01/adia-inference-server/
 
    cd adia-tts-inference-server
    ```
